@@ -20,5 +20,8 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "mongodb": "^3.6.3"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
